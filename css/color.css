@@ -1,0 +1,29 @@
+.top-container--color{
+  background-color: #DEF5E5;
+}
+
+.name-blok-font--color{
+  color: #66BFBF;
+}
+
+body{
+  color: #40514E;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+h3{
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+.bottom-container--color{
+  color: white;
+  background-color: #8EC3B0;
+
+}

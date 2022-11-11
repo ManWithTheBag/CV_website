@@ -1,0 +1,35 @@
+
+body{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1em;
+}
+
+h1{
+  font-family: 'Island Moments', cursive;
+  font-size: 5rem;
+}
+
+h2{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2rem;
+}
+
+h3{
+  font-family:'Josefin Sans', sans-serif;
+  font-size: 1.3rem;
+  text-align: left;
+}
+
+h4{
+  font-family:'Josefin Sans', sans-serif;
+  font-size: 1.1rem;
+  font-weight: normal;
+}
+
+p{
+  text-align: left;
+}
+
+.text-direction--underline{
+  text-decoration: underline;
+}

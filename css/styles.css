@@ -1,3 +1,112 @@
-body{
-  background-color: #FDFDBD;
+hr{
+  border-color: #EAEAEA;
+  border-style: dotted;
+  border-width:6px;
+  border-bottom: none;
+  width: 6%;
+  margin: 80px auto;
+}
+
+.top-container{
+  margin-bottom: 100px;
+}
+
+.intro{
+  width: 60%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.skill-row{
+    margin: 50px auto;
+}
+
+.top-texr-blok--height{
+  height: 60px;
+}
+
+.margin-0{
+  margin: 0;
+}
+
+.center-text{
+  text-align: center;
+}
+
+.position-center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.position-name-blok{
+  padding-top: 200px
+}
+
+.position-cloud-upper{
+  position: absolute;
+  top: 100px;
+  right: 100px;
+}
+.position-cloud-lower{
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.imag__shape--circle{
+  border-radius: 50%;
+  margin: auto 10px;
+}
+
+.imge-logo--size{
+  width: 25%
+}
+
+.image-scills--size
+{
+  width: 10%
+}
+
+.container-size--width{
+  width: 60%;
+}
+
+.imge-float--right{
+  float: right;
+}
+.imge-float--left{
+  float: left;
+}
+
+.bottom-container{
+  margin: 80px auto 0;
+  padding: 50px 0 20px;
+}
+
+.contact-massage{
+  width: 60%;
+  text-align: center;
+  margin: 30px auto 60px;
+}
+
+.btn {
+  background: #11cdd4;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+
+  text-decoration: none;
+}
+
+.bottom-text--padding{
+  margin: 10px 20px;
 }
